@@ -48,6 +48,6 @@ Not yet.
 - *I was the previous vice president of Aquatic Sports Club, Zhejiang University. Proficient in various water sports including dragon boat, kayak, rowing race, paddle, etc.🚣*  
 <img src="images/paddle board.png" alt="paddle" width="23%" height="auto"> <img src="images/canoe.png" alt="canoe" width="23%" height="auto"> <img src="images/dragon.png" alt="dragon" width="23%" height="auto"> <img src="images/6412.png" alt="6412png" width="23%" height="auto">
 - *Love skiing!⛷*
-- *Hope to learn surfing🏄 and kayak ball🤽‍♀️ in the future.*
+- *Hope to learn surfing🏄 and kayak ball🤽‍♀️ in the future.*  
 ### An unprofessional painter
 - *want to paint from the age of three to the age of one hundred!🎨*
