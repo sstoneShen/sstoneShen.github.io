@@ -41,12 +41,13 @@ Will work hard to get new ones!
 - *2022.03* Outstanding Student Award.
 
 # 📖 Educations
-- *2024.01 - 2027.12 (expected)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2019.09 - 2023.07*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01 - 2027.12 (expected)*, PhD student, Department of Computer Science, Hong Kong. 
+- *2019.09 - 2023.07*, Undergraduate, Ocean College, Zhejiang Univeristy, Hangzhou. 
 
 # 💬 Invited Talks
 Not yet.
 
 # 💻 Internships
+- *2023.07 - 2024.01*, Research Assistant in AIoT Lab, Hong Kong.
 - *2022.04 - 2022.06*, Qingdao National Laboratory for Marine Science and Technology, China.
 - *2022.01 - 2022.03*, R&D Department, R&L Medical Instrument Co., Ltd, Hangzhou, China.
