@@ -18,7 +18,7 @@ My current research interest lies in underwater sensing. My long term vision is 
 
 # 📝 Publications 
 **First Student Inventor**, Underwater Robot Patent🤖️🌊  
-National Invention, Patent Number:CN115535197A
+National Invention, Patent Number:CN115535197A  
 <img src="images/robot.png" alt="Our Robot" width="30%" height="auto">
 
 
