@@ -17,11 +17,9 @@ My current research interest lies in underwater sensing. My long term vision is 
 - *2023.06*: &nbsp;🎉🎉 Graduated from Zhejiang University! 
 
 # 📝 Publications 
-First Student Inventor, Underwater Robot Patent🤖️🌊
-
-<img src="images/robot.png" alt="Our Robot" width="50" height="50">
-
+**First Student Inventor**, Underwater Robot Patent🤖️🌊  
 National Invention, Patent Number:CN115535197A
+<img src="images/robot.png" alt="Our Robot" width="30%" height="auto">
 
 
 Will work hard to get new ones!
