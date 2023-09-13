@@ -17,18 +17,8 @@ My current research interest lies in underwater sensing. My long term vision is 
 - *2023.06*: &nbsp;🎉🎉 Graduated from Zhejiang University! 
 
 # 📝 Publications 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    **First Student Inventor**, Underwater Robot Patent🤖️🌊  
-    National Invention, Patent Number:CN115535197A
-  </div>
-  <div style="flex: 1;">
-    <img src="images/robot2.png" alt="Our Robot" width="40%" height="auto">
-  </div>
-</div>
-<img src="images/robot2.png" alt="Our Robot" width="40%" height="auto">**First Student Inventor**, Underwater Robot Patent🤖️🌊  
 National Invention, Patent Number:CN115535197A  
-
+<img src="images/robot2.png" alt="Our Robot" width="40%" height="auto"> **First Student Inventor**, Underwater Robot Patent🤖️🌊  
 
 Will work hard to get new ones!
 
@@ -54,7 +44,7 @@ Not yet.
 
 # ✨ Hobby
 ### Good at killing boredom
-- *I was the previous vice president of Aquatic Sports Club, Zhejiang University. Proficient in various water sports including dragon boat, kayak, rowing race, paddle, etc.🚣*
+- *I was the previous vice president of Aquatic Sports Club, Zhejiang University. Proficient in various water sports including dragon boat, kayak, rowing race, paddle, etc.🚣*  
 <img src="images/paddle board.png" alt="paddle" width="25%" height="auto"><img src="images/canoe.png" alt="canoe" width="25%" height="auto"><img src="images/dragon.png" alt="dragon" width="25%" height="auto"><img src="images/640.png" alt="640" width="25%" height="auto">
 - *Love skiing!⛷*
 - *Hope to learn surfing🏄 and kayak ball🤽‍♀️ in the future.*
