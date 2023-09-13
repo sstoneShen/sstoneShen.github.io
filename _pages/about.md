@@ -46,7 +46,7 @@ Not yet.
 # ✨ Hobby
 ### Good at killing boredom
 - *I was the previous vice president of Aquatic Sports Club, Zhejiang University. Proficient in various water sports including dragon boat, kayak, rowing race, paddle, etc.🚣*  
-<img src="images/paddle board.png" alt="paddle" width="25%" height="auto"><img src="images/canoe.png" alt="canoe" width="25%" height="auto"><img src="images/dragon.png" alt="dragon" width="25%" height="auto"><img src="images/640.png" alt="640" width="25%" height="auto">
+<img src="images/paddle board.png" alt="paddle" width="23%" height="auto"> <img src="images/canoe.png" alt="canoe" width="23%" height="auto"> <img src="images/dragon.png" alt="dragon" width="23%" height="auto"> <img src="images/640.png" alt="640" width="23%" height="auto">
 - *Love skiing!⛷*
 - *Hope to learn surfing🏄 and kayak ball🤽‍♀️ in the future.*
 ### An unprofessional painter
