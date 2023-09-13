@@ -8,15 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
 I am Sitong, a first-year PhD student at [AIoT Lab](https://aiot.hku.hk/) in the University of Hong Kong [(HKU)](https://www.hku.hk/), supervised by [Dr.Chenshu Wu](https://cswu.me/). Before that, I got my B.Eng in Ocean Engineering and Technology from Zhejiang University [(ZJU)](https://www.zju.edu.cn/).
 
 My current research interest lies in underwater sensing. My long term vision is to build low-power, low-cost and applicable underwater sensor.
