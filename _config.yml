@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sitong's Homepage"
-description              : "Stay hungry, stay foolish."
+description              : "Stay hungry, stay foolish.🌻"
 repository               : "sstoneShen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shen Sitong 沈思彤"
+  name             : "Shen Sitong|沈思彤"
   avatar           : "images/graduate1.png"
-  bio              : "Lorem ipsum College"
+  bio              : "AIoT Lab @HKU"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
