@@ -37,7 +37,7 @@ Will work hard to get new ones!
 - *2022.10* Provincial Government Scholarship (Top 3%). 
 - *2022.09* First class scholarship of Zhejiang University (Top 3%).
 - *2022.09* Won the third prize of 2022 China Robot Competition -- Automatic Sorting Robot.
-- *2022.05* Won the Third Prize in the Sixth Underwater Robot Design Competition of Zhejiang University.
+- *2022.05* Won the third prize in the Sixth Underwater Robot Design Competition of Zhejiang University.
 - *2022.03* Outstanding Student Award.
 
 # 📖 Educations
