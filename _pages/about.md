@@ -18,10 +18,11 @@ My current research interest lies in underwater sensing. My long term vision is 
 
 # 📝 Publications 
 National Invention, Patent Number:CN115535197A  
-👇  
-<img src="images/robot2.png" alt="Our Robot" width="40%" height="auto"> 👉**First Student Inventor**, Underwater Robot Patent🤖️🌊  
+👇 Underwater Robot Patent🤖️🌊  
+<img src="images/robot2.png" alt="Our Robot" width="40%" height="auto"> 👉**First Student Inventor**  
+
   
-Will work hard to get new ones!
+**Will work hard to get new ones!**
 
 # 🎖 Honors and Awards
 - *2023.05* Excellent Graduate of Zhejiang University. 
@@ -32,7 +33,7 @@ Will work hard to get new ones!
 - *2022.03* Outstanding Student Award.
 
 # 📖 Educations
-- *2024.01 - 2027.12 (expected)*, PhD student, Department of Computer Science, Hong Kong. 
+- *2024.01 - 2027.12 (expected)*, PhD student, Department of Computer Science, the University of Hong Kong, Hong Kong. 
 - *2019.09 - 2023.07*, Undergraduate, Ocean College, Zhejiang Univeristy, Hangzhou. 
 
 # 💬 Invited Talks
@@ -45,9 +46,9 @@ Not yet.
 
 # ✨ Hobby
 ### Good at killing boredom
-- *I was the previous vice president of Aquatic Sports Club, Zhejiang University. Proficient in various water sports including dragon boat, kayak, rowing race, paddle, etc.🚣*  
+- *I was the previous vice president of Aquatic Sports Club, Zhejiang University. Proficient in various water sports including dragon boat, canoe, rowing, paddle, etc.🚣*  
 <img src="images/paddle board.png" alt="paddle" width="23%" height="auto"> <img src="images/canoe.png" alt="canoe" width="23%" height="auto"> <img src="images/dragon.png" alt="dragon" width="23%" height="auto"> <img src="images/642.png" alt="642" width="23%" height="auto">
 - *Love skiing!⛷*
-- *Hope to learn surfing🏄 and kayak ball🤽‍♀️ in the future.*
+- *Hope to learn surfing🏄 and canoe polo🤽‍♀️ in the future.*  
 ### An unprofessional painter
 - *Want to paint from the age of three to the age of one hundred!🎨*
