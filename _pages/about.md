@@ -13,10 +13,14 @@ I am Sitong, a first-year PhD student at [AIoT Lab](https://aiot.hku.hk/) in the
 My current research interest lies in underwater sensing. My long term vision is to build low-power, low-cost and applicable underwater sensor.
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 Have been selected as a 2024 IEEE SPS Scholarship Program recipient!
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by ENSsys 2024, in conjunction with ACM SenSys 2024!
 - *2023.07*: &nbsp;🎉🎉 Came to Hong Kong and started my PhD journey!
 - *2023.06*: &nbsp;🎉🎉 Graduated from Zhejiang University! 
 
 # 📝 Publications 
+ENSsys 2024, in conjunction with ACM SenSys 2024, camera ready ing...
+
 National Invention, Patent Number:CN115535197A  
 👇 Underwater Robot Patent🤖️🌊  
 <img src="images/robot2.png" alt="Our Robot" width="40%" height="auto"> 👉**First Student Inventor**  
