@@ -19,7 +19,7 @@ My current research interest lies in underwater sensing. My long term vision is 
 - *2023.06*: &nbsp;🎉🎉 Graduated from Zhejiang University! 
 
 # 📝 Publications 
-ENSsys 2024, in conjunction with ACM SenSys 2024, camera ready ing...
+ENSsys 2024, workshop co-located with ACM SenSys 2024, camera ready ing...
 
 National Invention, Patent Number:CN115535197A  
 👇 Underwater Robot Patent🤖️🌊  
