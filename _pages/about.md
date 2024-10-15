@@ -19,16 +19,27 @@ My current research interest lies in underwater sensing. My long term vision is 
 - *2023.06*: &nbsp;🎉🎉 Graduated from Zhejiang University! 
 
 # 📝 Publications 
-- **ENSsys 2024, workshop co-located with ACM SenSys 2024, camera ready ing...**
+### ENSsys 2024  
+**Self-Powered Visible Light Communication for Batteryless IoT via Vibration Energy Harvesting**  
 
-- **National Invention, Patent Number:CN115535197A**  
-👇 Underwater Robot Patent🤖️🌊  
-<img src="images/robot2.png" alt="Our Robot" width="40%" height="auto"> 👉**First Student Inventor**  
+**Sitong Shen**, Wenbo Ding, Chenshu Wu 
+
+[Paper](https://www.enssys.org/2024/programme.php)
+
+---
+
+### National Invention Patent 2023  
+**Underwater Robot Patent, CN115535197A**
+
+**Haocai Huang**, **Sitong Shen**, Shujin Liu, Zinuo Chang (First Student Inventor)
+
+---
 
   
 **Will work hard to get new ones!**
 
 # 🎖 Honors and Awards
+- *2024.09* IEEE SPS (signal processing society) Scholarship.
 - *2023.05* Excellent Graduate of Zhejiang University. 
 - *2022.10* Provincial Government Scholarship (Top 3%). 
 - *2022.09* First class scholarship of Zhejiang University (Top 3%).
