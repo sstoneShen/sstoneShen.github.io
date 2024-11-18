@@ -14,7 +14,6 @@ My current research interest lies in underwater sensing. My long term vision is 
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 Came to Hangzhou (China) for Sensys & ENSsys 2024, invited to [N2Women](https://sensys.acm.org/2024/n2women/) - girls help girls✨!
-             And met my dear friends in Hangzhou (´∀｀*)
 - *2024.10*: &nbsp;🎉🎉 Have been selected as a 2024 IEEE SPS Scholarship Program recipient!
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by ENSsys 2024, in conjunction with ACM SenSys 2024!
 - *2023.07*: &nbsp;🎉🎉 Came to Hong Kong and started my PhD journey!
