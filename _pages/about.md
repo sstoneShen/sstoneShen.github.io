@@ -13,6 +13,7 @@ I am Sitong, a first-year PhD student at [AIoT Lab](https://aiot.hku.hk/) in the
 My current research interest lies in underwater sensing. My long term vision is to build low-power, low-cost and applicable underwater sensing systems.
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 Went to Hangzhou(China) for Sensys & ENSsys, invited to [(N2Women)](https://sensys.acm.org/2024/n2women/) and met my dear friends in Hangzhou!
 - *2024.10*: &nbsp;🎉🎉 Have been selected as a 2024 IEEE SPS Scholarship Program recipient!
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by ENSsys 2024, in conjunction with ACM SenSys 2024!
 - *2023.07*: &nbsp;🎉🎉 Came to Hong Kong and started my PhD journey!
@@ -24,7 +25,7 @@ My current research interest lies in underwater sensing. My long term vision is 
 
 **Sitong Shen**, Wenbo Ding, Chenshu Wu 
 
-[Paper](https://www.enssys.org/2024/programme.php)
+[Paper](https://doi.org/10.1145/3698384.3699611)
 
 ---
 
