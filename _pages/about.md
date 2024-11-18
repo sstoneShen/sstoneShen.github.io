@@ -10,7 +10,7 @@ redirect_from:
 # 🕵️‍♀️ About This Lady
 I am Sitong, a first-year PhD student at [AIoT Lab](https://aiot.hku.hk/) in the University of Hong Kong [(HKU)](https://www.hku.hk/), supervised by [Dr.Chenshu Wu](https://cswu.me/). Before that, I got my B.Eng in Ocean Engineering and Technology from Zhejiang University [(ZJU)](https://www.zju.edu.cn/).
 
-My current research interest lies in underwater sensing. My long term vision is to build low-power, low-cost and applicable underwater sensing systems.
+My current research interest lies in underwater sensing. My long-term vision is to build low-power, low-cost, and applicable underwater sensing systems. If you are also interested in ultra-low-power computing and communication, batteryless sensing, or underwater applications, you are welcome to email me to brainstorm or explore techniques!
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 Came to Hangzhou (China) for [SenSys & ENSsys 2024](https://sensys.acm.org/2024/), invited to [N2Women](https://sensys.acm.org/2024/n2women/) - girls help girls✨!
