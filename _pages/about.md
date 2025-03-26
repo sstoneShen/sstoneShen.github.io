@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 # 🕵️‍♀️ About This Lady
-I am Sitong, a first-year PhD student at [AIoT Lab](https://aiot.hku.hk/) in the University of Hong Kong [(HKU)](https://www.hku.hk/), supervised by [Prof.Chenshu Wu](https://cswu.me/). Before that, I got my B.Eng in Ocean Engineering and Technology from Zhejiang University [(ZJU)](https://www.zju.edu.cn/).
+I am Sitong, a first-year PhD student at [AIoT Lab](https://aiot.hku.hk/) in the University of Hong Kong [(HKU)](https://www.hku.hk/), supervised by [Prof. Chenshu Wu](https://cswu.me/). Before that, I got my B.Eng in Ocean Engineering and Technology from Zhejiang University [(ZJU)](https://www.zju.edu.cn/).
 
 My current research interest lies in underwater sensing. My long-term vision is to build low-power, low-cost, and applicable underwater sensing systems. If you are also interested in ultra-low-power computing and communication, batteryless sensing, or underwater applications, you are welcome to email me to brainstorm or explore techniques!
 
@@ -21,11 +21,10 @@ My current research interest lies in underwater sensing. My long-term vision is 
 
 # 📝 Publications 
 ### ENSsys 2024  
-**Self-Powered Visible Light Communication for Batteryless IoT via Vibration Energy Harvesting**  
+**[Self-Powered Visible Light Communication for Batteryless IoT via Vibration Energy Harvesting](https://doi.org/10.1145/3698384.3699611)**  
 
 **Sitong Shen**, Wenbo Ding, Chenshu Wu 
 
-[Paper](https://doi.org/10.1145/3698384.3699611)
 
 ---
 
