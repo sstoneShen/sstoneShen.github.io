@@ -13,6 +13,8 @@ I am Sitong, a second-year PhD student at [AIoT Lab](https://aiot.hku.hk/) in th
 My current research interest lies in underwater sensing. My long-term vision is to build low-power, low-cost, and applicable underwater sensing systems. If you are also interested in ultra-low-power computing and communication, batteryless sensing, or underwater applications, you are welcome to email me to brainstorm or explore techniques!
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 Have been selected as a 2026 IEEE SPS Scholarship Program recipient! Again, congrats!
+- *2026.09*: &nbsp;🎉🎉 One paper is accepted by MobiCom WIP 2026!
 - *2025.09*: &nbsp;🎉🎉 Have been selected as a 2025 IEEE SPS Scholarship Program recipient! Again, congrats!
 - *2024.11*: &nbsp;🎉🎉 Came to Hangzhou (China) for [SenSys & ENSsys 2024](https://sensys.acm.org/2024/), invited to [N2Women](https://sensys.acm.org/2024/n2women/) - girls help girls✨!
 - *2024.10*: &nbsp;🎉🎉 Have been selected as a 2024 IEEE SPS Scholarship Program recipient!
@@ -21,6 +23,11 @@ My current research interest lies in underwater sensing. My long-term vision is 
 - *2023.06*: &nbsp;🎉🎉 Graduated from Zhejiang University! 
 
 # 📝 Publications 
+### MobiCom WIP 2026  
+**[WiP: Sparse Dual-Rate Vision for Long-Term Coral Reef Monitoring]**  
+
+**Sitong Shen**, Chenshu Wu 
+
 ### ENSsys 2024  
 **[Self-Powered Visible Light Communication for Batteryless IoT via Vibration Energy Harvesting](https://doi.org/10.1145/3698384.3699611)**  
 
