@@ -47,6 +47,8 @@ My current research interest lies in underwater sensing. My long-term vision is 
 **Will work hard to get new ones!**
 
 # 🎖 Honors and Awards
+- *2026.09* IEEE SPS (signal processing society) Scholarship.
+- *2025.09* IEEE SPS (signal processing society) Scholarship.
 - *2024.09* IEEE SPS (signal processing society) Scholarship.
 - *2023.05* Excellent Graduate of Zhejiang University. 
 - *2022.10* Provincial Government Scholarship (Top 3%). 
