@@ -24,7 +24,7 @@ My current research interest lies in underwater sensing. My long-term vision is 
 
 # 📝 Publications 
 ### MobiCom WIP 2026  
-**WiP: Sparse Dual-Rate Vision for Long-Term Coral Reef Monitoring**  
+**[WiP: Sparse Dual-Rate Vision for Long-Term Coral Reef Monitoring](/docs/WiP.pdf)**  
 
 **Sitong Shen**, Chenshu Wu 
 
